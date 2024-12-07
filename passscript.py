@@ -14,7 +14,7 @@ def print_banner():
 |  __/| |_| | . \| |  | |_| | |_) | |_
 |_|    \__, |_|\_\_|   \__, | .__/ \__|
        |___/           |___/|_|
-Python Script Enkryptor, Sheikh Nightshader
+       Python Script Password Enkryptor, Sheikh Nightshader
     """
     colors = [31, 32, 33, 34, 35, 36]
     for line in banner.split("\n"):
